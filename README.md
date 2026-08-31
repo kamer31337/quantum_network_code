@@ -93,7 +93,7 @@ python -m unittest discover tests
 ### 1. Kraus-Cirac Decomposition & Weyl Chamber
 Any 2-qubit unitary $U \in U(4)$ can be expressed as:
 $$U = (u \otimes u') e^{i(x X\otimes X + y Y\otimes Y + z Z\otimes Z)} (w \otimes w')$$
-where $0 \le z \le y \le x \le \pi/4$. The Kraus-Cirac number $KC\#(U)$ is the number of non-zero parameters among $(x, y, z)$.
+where $0 \le z \le y \le x \le \pi/4$. The Kraus-Cirac number $KC\(U)$ is the number of non-zero parameters among $(x, y, z)$.
 
 ### 2. Butterfly Protocol (Theorem 1 & Appendix D)
 1. Input state: $|\psi\rangle_{1,3} |0\rangle_2$.
