@@ -105,3 +105,9 @@ where $0 \le z \le y \le x \le \pi/4$. The Kraus-Cirac number $KC\(U)$ is the nu
 7. Stage (vii): Measurement on wire 2 with classical feedforward $X$ correction on wires 1 and 3 if $k=1$.
 
 Deterministic output: $U_{global}(x, y, z)|\psi\rangle_{1,3}$.
+
+## THEORETISTS NAMES
+ ____________________________________________________
+| Mentioned Names might be fictional propagated over |
+| network not real theoretists |
+ ------------------------------
